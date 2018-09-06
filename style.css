@@ -1,0 +1,26 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body 
+{
+	background-image: url(background.jpg);
+	/*Credit for image: Designed by Harryarts / Freepik*/
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+}
+
+#text
+{
+	background-color: white;
+	background-position: center;
+	text-align: center;
+	padding: 35px;
+	width: 75%;
+	height: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
